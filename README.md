@@ -1,2 +1,2 @@
-Omnifood is a online food Website
-built using a reference through a udemy platform
+FictFood is fictional online food Website
+Responsive web site built with HTML5, CSS3 and some jQuery
